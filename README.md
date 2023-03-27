@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" height="150"/>
 </div>
+
 [![megh16123's github stats](https://github-readme-stats.vercel.app/api?username=megh16123&show_icons=true&theme=algolia)](https://github.com/megh16123/) 
 
 
