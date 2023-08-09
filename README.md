@@ -4,7 +4,6 @@
 <hr/>
 
 
-[![megh16123's github stats](https://github-readme-stats.vercel.app/api?username=megh16123&show_icons=true&theme=algolia)](https://github.com/megh16123/)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=megh16123&count_private=true&include_all_commits=true&&theme=algolia"/>
 
