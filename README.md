@@ -3,7 +3,15 @@
 </div>
 <hr/>
 
+<div align="center" style="margin-top:200px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=megh16123&count_private=true&include_all_commits=true&&theme=dracula"/>
+</div>
 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megh16123&layout=compact&theme=dracula)](https://github.com/megh16123)
+</div>
+<div align="center">
 
 
 ### Social Media
